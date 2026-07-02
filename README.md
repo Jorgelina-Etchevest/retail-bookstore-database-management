@@ -66,6 +66,20 @@ The repository includes:
 - Transaction management examples
 
 ---
+## Java Integration
+
+The project includes a Java example demonstrating secure database connectivity using JDBC.
+
+The application illustrates:
+
+- Secure database connection
+- Prepared Statements
+- SQL Injection prevention
+- Parameterized queries
+- Secure INSERT operations
+- Auto-generated key retrieval
+
+---
 
 ## Technologies
 
