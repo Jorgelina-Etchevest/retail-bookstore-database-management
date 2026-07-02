@@ -122,7 +122,9 @@ retail-bookstore-database-management/
 ## Author
 
 **Jorgelina Etchevest**
+
 Economist | Business & Data Analyst
 
 **Technical Skills**
+
 Python • SQL • Tableau • Power BI • Machine Learning • Database Design • Business Analytics
