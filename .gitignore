@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/private/
+build/
+dist/
+
+# Java
+*.class
+*.jar
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
