@@ -1,8 +1,9 @@
+
 # Retail Bookstore Database Management
 
 **Relational Database Design | SQL | MySQL**
 
-![Entity Relationship Diagram](images/er_diagram.png)
+![Entity Relationship Diagram](images/entity_relationship_diagram.png)
 
 ---
 
@@ -16,30 +17,22 @@ The database was designed following relational database best practices, ensuring
 
 ## Business Problem
 
-Retail bookstores require an integrated information system capable of managing daily operations while maintaining accurate inventory records, customer information and sales transactions.
+Retail bookstores require an integrated information system capable of managing inventory, customer records, suppliers and sales transactions while maintaining data consistency and minimizing redundancy.
 
-This project addresses that need by designing a normalized relational database that minimizes redundancy, guarantees data consistency and supports efficient business operations.
+This project addresses these challenges by designing and implementing a normalized relational database capable of supporting daily business operations through efficient data management.
 
 ---
 
 ## Project Objectives
 
-- Design a normalized relational database.
-- Model relationships between business entities.
+- Design a normalized relational database (Third Normal Form).
+- Model business entities and their relationships.
 - Ensure data integrity through constraints.
-- Optimize performance using indexes.
-- Simplify information retrieval with SQL views.
-- Automate database operations with stored procedures.
+- Optimize query performance using indexes.
+- Simplify data retrieval with SQL views.
+- Automate database operations using stored procedures.
 - Manage user permissions and database security.
 - Demonstrate transaction management and concurrency control.
-
----
-
-## Entity Relationship Diagram
-
-The Entity-Relationship Diagram (ERD) represents the logical structure of the database and the relationships between all business entities.
-
-![ER Diagram](images/er_diagram.png)
 
 ---
 
@@ -52,7 +45,7 @@ The Entity-Relationship Diagram (ERD) represents the logical structure of the da
 - SQL Views
 - Indexes
 - Stored Procedures
-- User and Permission Management
+- User & Permission Management
 - Transaction Management
 - Concurrency Control
 
@@ -60,13 +53,13 @@ The Entity-Relationship Diagram (ERD) represents the logical structure of the da
 
 ## SQL Components
 
-The project includes:
+The repository includes:
 
 - Database schema creation
 - Sample data loading
 - SQL queries
-- Views
-- Indexes
+- SQL views
+- Index creation
 - Integrity constraints
 - Stored procedures
 - User and permission management
@@ -99,7 +92,7 @@ retail-bookstore-database-management/
 │   └── 09_advanced_procedures.sql
 │
 ├── images/
-│   └── er_diagram.png
+│   └── entity_relationship_diagram.png
 │
 ├── reports/
 │   └── Database_Project_Report.pdf
@@ -119,7 +112,7 @@ retail-bookstore-database-management/
 - Query Optimization
 - Database Security
 - Stored Procedures
-- Views
+- SQL Views
 - Indexing
 - Transaction Management
 - Concurrency Control
@@ -127,10 +120,9 @@ retail-bookstore-database-management/
 ---
 
 ## Author
-**Jorgelina Etchevest**
 
+**Jorgelina Etchevest**
 Economist | Business & Data Analyst
 
 **Technical Skills**
-
 Python • SQL • Tableau • Power BI • Machine Learning • Database Design • Business Analytics
