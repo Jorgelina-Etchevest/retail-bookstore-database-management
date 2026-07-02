@@ -118,6 +118,23 @@ retail-bookstore-database-management/
 
 ---
 
+## Project Documentation
+
+The complete technical documentation for this project is available below.
+
+It includes:
+
+- Database design decisions
+- Entity-Relationship Diagram
+- SQL implementation
+- Performance optimization
+- Security model
+- Java JDBC integration
+
+➡️ **[Database Project Report](reports/Database_Project_Report.pdf)**
+
+---
+
 ## Skills Demonstrated
 
 - Relational Database Design
